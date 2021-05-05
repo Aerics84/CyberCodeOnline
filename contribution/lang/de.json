@@ -219,7 +219,7 @@
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Zrück zum ${mainHubName}",
+ 	 	 	 	 	"trans": "Zurück zur Stadtmitte",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -229,7 +229,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Return to ${mainHubName}",
+ 	 	 	 	 	"trans": "Zurück nach ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
